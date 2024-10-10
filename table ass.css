@@ -1,0 +1,58 @@
+table, th ,td {
+    border: 2px solid black;
+    border-collapse: collapse ;
+}
+th,td {
+    padding: 1rem;
+}
+th{
+    background-color: gray;
+}
+td{
+    background-color: blue;
+}
+
+.D, .R, .T, .B, .y, .m, .C, .F, .k, .p, .g{
+    padding-bottom: 0;
+    text-align: center;
+}
+.D{
+    background-color: antiquewhite;
+}
+.R{
+    background-color: pink;
+}
+.T{
+    background-color: purple;
+}
+.B{
+    background-color: powderblue;
+    border-color: powderblue;
+}
+.y{
+    background-color: yellow;
+}
+.m{
+    background-color: blue;
+}
+.C{
+    background-color: antiquewhite;
+    border-color: antiquewhite;
+}
+.F{
+    background-color: orange;
+    border-color: orange;
+}
+.k{
+    background-color: orange;
+}
+.p{
+    background-color: palevioletred;
+}
+.g{
+    background-color: lawngreen;
+}
+table{
+    width: 100%;
+    height: 100vh;
+}

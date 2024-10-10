@@ -1,0 +1,17 @@
+table , th , td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th , td{
+    padding: 2rem;
+}
+table{
+    margin-left: 7rem;
+    /* margin-left: 7rem */
+}
+th{background-color: lime;
+}
+td{
+    background-color: aqua;
+}
+

@@ -1,0 +1,26 @@
+table , th , td {
+    border: 2px solid rgb(245, 224, 224);
+    border-collapse: collapse;
+}
+td {
+    padding: 2rem;
+    
+}
+td{
+    border-radius: 15px;
+    height: 3rem;
+    width: 15rem;
+}
+.c{
+    color: white;
+    background-color: rgb(121, 17, 34);
+}
+table,th,td{
+    border: 2px solid rgb(136, 68, 68)
+}
+td{
+    padding: 2px;
+    height:1rem ;
+    width:15rem ;
+
+}
